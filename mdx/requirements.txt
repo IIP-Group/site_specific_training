@@ -1,0 +1,15 @@
+sionna==0.19.2
+tensorflow==2.15.0
+numpy==1.26.4
+matplotlib==3.10.5
+pandas==2.2.3
+h5py==3.13.0
+importlib-resources==6.5.2
+tqdm==4.67.1
+jupyter==1.1.1
+onnx==1.17.0
+tf2onnx==1.16.1
+clickhouse-connect==0.8.17
+cupy-cuda12x==13.4.1
+polygraphy==0.49.24
+mitsuba==3.5.2

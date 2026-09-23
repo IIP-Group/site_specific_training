@@ -1,0 +1,12 @@
+.vscode/
+build/
+__pycache__
+.ipynb_checkpoints
+.pytest_cache
+.logs
+dev
+_build
+logs/
+dev/
+**/*_cov_mat.npy
+*.csv
