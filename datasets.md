@@ -110,8 +110,8 @@ The following timestamp pickle files are used select deterministic measurement s
 | Small Laboratory Jun. 2026 (2 ULLs) | DUIDD evaluation (fixed scrambling) | 100 | [`timestamps_junj61_2ULL_fix_100.pkl`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_lab/jun_26/timestamps/timestamps_junj61_2ULL_fix_100.pkl) |
 | Small Laboratory Jun. 2026 (2 ULLs) | DUIDD evaluation (fixed scrambling) | 1,000 | [`timestamps_junj61_2ULL_fix.pkl`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_lab/jun_26/timestamps/timestamps_junj61_2ULL_fix.pkl) |
 | Large Office Floor Nov. 2025 (1 ULL) | NRX evaluation | 1,000 | [`timestamps_novjfloor_ue1.pkl`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_floor/nov_25/timestamps/timestamps_novjfloor_ue1.pkl)
-| Large Office Floor Jun. 2026 (1 ULL) | MDX evaluation | 1,000 | [`timestamps_junjfloor_1ULL.pkl`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_floor/jun_26/timestamps/timestamps_junjfloor_1ULL.pkl.pkl) |
-| Outdoor Nov. 2025 (1 ULL) | NRX evaluation | 1,000 | [`timestamps_drone3.pkl`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/oudoor_uav/nov_25/timestamps/timestamps_drone3.pkl) |
+| Large Office Floor Jun. 2026 (1 ULL) | MDX evaluation | 1,000 | [`timestamps_junjfloor_1ULL.pkl`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_floor/jun_26/timestamps/timestamps_junjfloor_1ULL.pkl) |
+| Outdoor Nov. 2025 (1 ULL) | NRX evaluation | 1,000 | [`timestamps_drone3.pkl`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/outdoor_uav/nov_25/timestamps/timestamps_drone3.pkl) |
 
 
 ## Estimated Site-Specific Covariance Matrices
