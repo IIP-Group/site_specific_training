@@ -87,9 +87,9 @@ The filenames correspond to the database names from the [Data Lake Databases](#d
 
 | Measurement | TFRecord File |
 | --- | --- |
-| Small Laboratory Nov. 2025 (1 ULL) | [`nrx_measurement_2025_11_03.tfrecord`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_lab/nov_25/tfrecord/nrx_real_data_13sym.tfrecord) |
+| Small Laboratory Nov. 2025 (1 ULL) | [`nrx_measurement_2025_11_03.tfrecord`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_lab/nov_25/tfrecord/nrx_measurement_2025_11_03.tfrecord) |
 | Small Laboratory Jun. 2026 (1 ULL) | [`sgs23_1ULLs_5dB_j61_2026_06_04.tfrecord`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_lab/jun_26/tfrecord/sgs23_1ULLs_5dB_j61_2026_06_04.tfrecord) |
-| Small Laboratory Jun. 2026  (2 ULLs) | [`Pixel9Pro_2ULLs_12dB_j61_2026_06_04.tfrecord`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_lab/jun_26/tfrecordPixel9Pro_2ULLs_12dB_j61_2026_06_04.tfrecord) |
+| Small Laboratory Jun. 2026  (2 ULLs) | [`Pixel9Pro_2ULLs_12dB_j61_2026_06_04.tfrecord`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_lab/jun_26/tfrecord/Pixel9Pro_2ULLs_12dB_j61_2026_06_04.tfrecord) |
 | Large Office Floor Nov. 2025 (1 ULL) | [`nrx_jfloor_1st_2025_12_02.tfrecord`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_floor/nov_25/tfrecord/nrx_jfloor_1st_2025_12_02.tfrecord) |
 | Large Office Floor Jun. 2026  (1 ULL) | [`sgs23_1ULLs_5dB_jFloorRealLoop_2026_06_10.tfrecord`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_floor/jun_26/tfrecord/sgs23_1ULLs_5dB_jFloorRealLoop_2026_06_10.tfrecord) |
 | Large Office Floor Jun. 2026  (2 ULLs) | [`Pixel9Pro_2ULLs_12dB_jFloorRealLoop_2026_06_10.tfrecord`](https://iis-people.ee.ethz.ch/~iisdatasets/iip/site_specific_training/finetuning_datasets/indoor_floor/jun_26/tfrecord/Pixel9Pro_2ULLs_12dB_jFloorRealLoop_2026_06_10.tfrecord) |
